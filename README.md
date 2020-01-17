@@ -7,5 +7,5 @@ cd into rony-app(vue project) npm install
 cd back node js folder npm install
 
 index.js has server code
-rony-app is vue js project
+rony-app is vue js project (npm run build to create /dist folder that is served by express js)
 
